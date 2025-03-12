@@ -62,7 +62,6 @@ CacheCloud is a Redis cloud management platform that supports efficient manageme
 + 420+ app Total / 4800+ Instances Total
 + 80+ Physical machine/ 360+ K8s Pod Total
 
-<a name="cc5"/>
 
 ## CacheCloud VS Cloud vendor
 
