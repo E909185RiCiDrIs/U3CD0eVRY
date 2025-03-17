@@ -37,7 +37,6 @@ linters:
   enable:
     - goconst
     - errcheck
-    - gofmt
     - goimports
     - revive
     - unconvert
