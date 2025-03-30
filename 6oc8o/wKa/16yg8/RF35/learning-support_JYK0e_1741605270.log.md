@@ -8,7 +8,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 Adding balancer for reference.
 
-Convert Paths to str before giving to torchaudio due to [some compat issue with Windows](https://github.com/facebookresearch/encodec/issues/13).
 Installing is another way to solve the issue.
 
 Fix bug in convert audio that would not work properly with shapes [*, C, T].
